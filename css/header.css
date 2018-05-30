@@ -33,7 +33,7 @@
     font-weight: bold;
     padding: 10px;
     border-radius: 3px;
-    transition: 0.6s linear;
+    transition: .6s linear;
 }
 
 .header-nav-link:hover {
